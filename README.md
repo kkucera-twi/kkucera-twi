@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Katie @kkucera-twi
+- 👀 I’m interested in plant community ecology.
+- 🌱 I’m currently learning R and Shiny tools.
